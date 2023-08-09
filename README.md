@@ -1,4 +1,4 @@
-# E-Commerce-Prediction-Project
+# ECommerce Prediction Analysis
 
 We are Predicting Item Price with Machine Learning models using Spark ML for a eCommerce Multi Category Store.
 
