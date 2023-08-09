@@ -1,4 +1,4 @@
-# CIS-5560-e-Commerce-Prediction-Project
+# E-Commerce-Prediction-Project
 
 We are Predicting Item Price with Machine Learning models using Spark ML for a eCommerce Multi Category Store.
 
